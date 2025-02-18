@@ -71,8 +71,8 @@ CONFIG_TARGET_mediatek_filogic=y
 # CONFIG_TARGET_mediatek_filogic_DEVICE_cmcc_rax3000m-emmc is not set
 # CONFIG_TARGET_mediatek_filogic_DEVICE_cmcc_rax3000m-nand is not set
 # CONFIG_TARGET_mediatek_filogic_DEVICE_cmcc_xr30-nand is not set
-# CONFIG_TARGET_mediatek_filogic_DEVICE_cudy_tr3000-mod is not set
-CONFIG_TARGET_mediatek_filogic_DEVICE_cudy_tr3000-v1=y
+# CONFIG_TARGET_mediatek_filogic_DEVICE_cudy_tr3000-mod=y
+CONFIG_TARGET_mediatek_filogic_DEVICE_cudy_tr3000-v1 is not set
 # CONFIG_TARGET_mediatek_filogic_DEVICE_fzs_5gcpe-p3 is not set
 # CONFIG_TARGET_mediatek_filogic_DEVICE_glinet_gl-mt2500 is not set
 # CONFIG_TARGET_mediatek_filogic_DEVICE_glinet_gl-mt3000 is not set
@@ -120,7 +120,7 @@ CONFIG_DEFAULT_ca-certificates=y
 CONFIG_DEFAULT_coremark=y
 CONFIG_DEFAULT_curl=y
 CONFIG_DEFAULT_ddns-scripts_aliyun=y
-CONFIG_DEFAULT_ddns-scripts_dnspod=y
+CONFIG_DEFAULT_ddns-scripts_dnspod is not set
 CONFIG_DEFAULT_default-settings=y
 CONFIG_DEFAULT_dnsmasq-full=y
 CONFIG_DEFAULT_dropbear=y
