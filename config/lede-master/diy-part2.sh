@@ -32,7 +32,6 @@ echo 'src-git luci-app-istorex https://github.com/kenzok8/openwrt-packages' >>fe
 #
 # Add luci-app-amlogic
 #svn co https://github.com/ophub/luci-app-amlogic/trunk/luci-app-amlogic package/luci-app-amlogic
-svn co https://github.com/kenzok8/openwrt-packages/tree/master/luci-app-istorex package/luci-app-istorex
 
 # Fix runc version error
 # rm -rf ./feeds/packages/utils/runc/Makefile
