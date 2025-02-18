@@ -23,10 +23,10 @@ CONFIG_HOST_OS_LINUX=y
 # CONFIG_TARGET_gemini is not set
 # CONFIG_TARGET_mpc85xx is not set
 # CONFIG_TARGET_mxs is not set
-# CONFIG_TARGET_lantiq is not set
+# CONFIG_TARGET_lantiq 
 # CONFIG_TARGET_loongarch64 is not set
-# CONFIG_TARGET_malta is not set
-# CONFIG_TARGET_pistachio is not set
+# CONFIG_TARGET_malta 
+# CONFIG_TARGET_pistachio 
 # CONFIG_TARGET_mvebu is not set
 # CONFIG_TARGET_kirkwood is not set
 CONFIG_TARGET_mediatek=y
@@ -120,7 +120,7 @@ CONFIG_DEFAULT_ca-certificates=y
 CONFIG_DEFAULT_coremark=y
 CONFIG_DEFAULT_curl=y
 CONFIG_DEFAULT_ddns-scripts_aliyun=y
-CONFIG_DEFAULT_ddns-scripts_dnspod is not set
+# CONFIG_DEFAULT_ddns-scripts_dnspod is not set
 CONFIG_DEFAULT_default-settings=y
 CONFIG_DEFAULT_dnsmasq-full=y
 CONFIG_DEFAULT_dropbear=y
