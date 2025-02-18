@@ -26,6 +26,8 @@ echo "DISTRIB_SOURCECODE='lede'" >>package/base-files/files/etc/openwrt_release
 #
 # ------------------------------- Main source ends -------------------------------
 
+echo 'src-git luci-app-istorex https://github.com/kenzok8/openwrt-packages' >>feeds.conf.default
+
 # ------------------------------- Other started -------------------------------
 #
 # Add luci-app-amlogic
